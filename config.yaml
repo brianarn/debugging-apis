@@ -1,0 +1,8 @@
+---
+baseurl: "http://debugging-apis.com/"
+title: "Debugging APIs"
+languageCode: "en-us"
+metaDataFormat: yaml
+params:
+  ShortURL: "debugging-apis.com"
+...
