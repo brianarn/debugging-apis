@@ -8,5 +8,34 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-debugging-apis:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About Debugging APIs&lt;/h1&gt;
+
+&lt;p&gt;The goal of this site is to help document some of the various browser-based
+APIs, techniques, tips, and tricks.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-the-author:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About the Author&lt;/h2&gt;
+
+&lt;p&gt;Brian Arnold Sinclair is this just guy who likes to fix things.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simple Logging</title>
+      <link>http://localhost:1313/console/log/</link>
+      <pubDate>Fri, 22 May 2015 15:25:56 -0600</pubDate>
+      
+      <guid>http://localhost:1313/console/log/</guid>
+      <description>&lt;p&gt;Stuff here eventually&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

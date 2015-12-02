@@ -3,6 +3,23 @@ baseurl: "http://debugging-apis.com/"
 title: "Debugging APIs"
 languageCode: "en-us"
 metaDataFormat: yaml
+menu:
+  main:
+    - Name: "Home"
+      Identifier: "home"
+      Pre: "<span class=\"glyphicon glyphicon-home\" aria-hidden=\"true\"></span>"
+      Url: "/"
+      Weight: 10
+    - Name: "About"
+      Identifier: "about"
+      Pre: "<span class=\"glyphicon glyphicon-info-sign\" aria-hidden=\"true\"></span>"
+      Url: "/about/"
+      Weight: 20
+    - Name: "Console APIs"
+      Identifier: "console"
+      Pre: "<span class=\"glyphicon glyphicon-console\" aria-hidden=\"true\"></span>"
+      Url: "/console/"
+      Weight: 30
 params:
   ShortURL: "debugging-apis.com"
 ...
